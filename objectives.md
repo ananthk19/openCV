@@ -5,10 +5,10 @@
 3. Draw Shapes and put Texts
 5. 5 Essential Fn's
     -> Convert image to grayScale
-    ->
-    ->
-    ->
-    ->
+    -> Blur
+    -> Edge Cascade
+    -> Dilate an image
+    -> Erode(to reverse dilation)
 
 # ADVANCED
 
