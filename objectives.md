@@ -3,6 +3,12 @@
 1. Reading images and video
 2. Image Transformations
 3. Draw Shapes and put Texts
+5. 5 Essential Fn's
+    -> Convert image to grayScale
+    ->
+    ->
+    ->
+    ->
 
 # ADVANCED
 
